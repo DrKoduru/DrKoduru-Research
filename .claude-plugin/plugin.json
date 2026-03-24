@@ -1,0 +1,39 @@
+{
+  "name": "DrKoduru-Research",
+  "description": "Srinivas V Koduru PhD AI/ML master research brain — 15 skills covering cancer biomarker ML pipelines, R/Bioconductor, advanced biostatistics, literature intelligence, lab automation, publication figures, clinical study design, scientific writing with humanizer, FDA regulatory submissions, patent/IP strategy, poster/presentation design, project tracking, secure webapps, and session knowledge capture.",
+  "version": "3.0.0",
+  "author": {
+    "name": "Srinivas V Koduru, PhD, AI/ML"
+  },
+  "homepage": "https://www.DrKoduru.com",
+  "repository": "https://github.com/sreenivaskoduru/DrKoduru-Research",
+  "license": "MIT",
+  "keywords": [
+    "cancer-biology", "biomarker-development", "assay-development",
+    "mRNA", "small-RNA", "liquid-biopsy", "qpcr", "openarray",
+    "diagnostics", "precision-medicine", "FDA-regulatory",
+    "CLIA", "CAP", "cGMP", "ISO7", "gCLP", "CRO",
+    "bioinformatics", "ai-ml", "secure-webapp",
+    "scientific-mobile-app", "project-tracking",
+    "scientific-writing", "grant-writing", "NIH", "SBIR", "STTR", "NSF", "DoD", "CDMRP",
+    "manuscript", "MIQE", "IMRAD", "STARD", "CONSORT", "humanizer",
+    "510k", "de-novo", "LDT", "IVD", "regulatory-submissions",
+    "conference-abstract", "ASCO", "AACR", "AMP",
+    "R-bioinformatics", "DESeq2", "limma", "edgeR", "Seurat", "Harmony",
+    "clusterProfiler", "GSEA", "fgsea", "Bioconductor", "single-cell",
+    "data-visualization", "ggplot2", "volcano-plot", "heatmap", "ROC-curve",
+    "forest-plot", "UMAP", "publication-figures", "color-blind",
+    "clinical-study-design", "sample-size", "power-analysis", "STROBE",
+    "STARD", "IRB", "biospecimen", "REMARK", "TRIPOD",
+    "literature-review", "PubMed", "systematic-review", "PRISMA", "citation-analysis",
+    "meta-analysis", "QUADAS", "evidence-synthesis",
+    "lab-automation", "OpenTrons", "liquid-handler", "LIMS", "barcode", "plate-layout",
+    "serial-dilution", "Hamilton", "Tecan", "pipetting-worklist",
+    "mixed-effects", "Bayesian", "competing-risks", "propensity-score",
+    "mediation-analysis", "NRI", "IDI", "decision-curve", "multiple-testing",
+    "patent", "provisional-patent", "freedom-to-operate", "IP-strategy",
+    "claims", "trade-secret", "510k-patent", "Mayo-Alice",
+    "poster", "conference-presentation", "graphical-abstract", "slide-deck",
+    "BioRender", "pitch", "scientific-poster"
+  ]
+}
