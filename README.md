@@ -181,10 +181,15 @@ Omelette Inc. is a scientific software and diagnostic data tools company special
 | Product | Description |
 |---------|-------------|
 | **UroDETECT** | Urological diagnostic system with specialized analysis panels for biomarker-based detection |
+| **UroDETECT Reporting App** | Clinical reporting application for diagnostic labs — automated result generation, QC review, and CLIA-compliant report delivery |
 | **BioMarker Detect** | Biomarker identification and analysis platform for cancer and disease screening |
 | **GeneLab** | Genetic analysis and sequencing tools with version tracking and pipeline management |
 | **PathoTrace** | Diagnostic pathology analysis platform for clinical specimen evaluation |
+| **qPCR Data Extraction App** | Automated extraction, QC flagging, and normalization of qPCR data from QuantStudio and other platforms |
+| **OpenArray Data Extraction App** | High-throughput OpenArray (48.48 / 96.96) data parsing, well QC, batch correction, and export |
 | **ScholarSite Pro v2** | Academic portfolio and analytics dashboard with executive, academic, and developer views |
+| **HTML to PDF WebApp** | Web-based document conversion tool for generating publication-ready PDFs from HTML templates |
+| **Quote&InvoicePro WebApp** | Professional quoting and invoicing platform for scientific consulting and CRO partnerships |
 | **AI/ML Services** | Custom diagnostic AI model development, data pipeline processing, ROC analysis, and validation |
 
 🌐 [www.omeletteinc.com](https://www.omeletteinc.com)
