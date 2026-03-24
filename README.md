@@ -168,7 +168,7 @@ Then add to `~/.claude/settings.json`:
 
 ## About the Author
 
-**Dr. Srinivas V Koduru, PhD, AI/ML** is a Senior Research Scientist specializing in cancer biomarker discovery and validation, liquid biopsy diagnostics, bioinformatics, and AI/ML-powered clinical prediction platforms.
+**Dr. Srinivas V Koduru, PhD, AI/ML** is a Senior Research Scientist in Genomics and Precision Diagnostics with 19 years of experience spanning 5 institutions — from bench science to diagnostic innovation. His research focuses on cancer biomarker discovery and validation using transcriptomics, liquid biopsy, qPCR, and high-throughput platforms (OpenArray, RNA-seq). He develops AI/ML-powered clinical prediction models achieving near-perfect diagnostic separation (AUC > 0.99) for cancer classification, leveraging techniques including XGBoost, SVM, neural networks, and SHAP-based interpretability. Dr. Koduru holds patents in diagnostic and analytical methodologies, maintains an active peer-reviewed publication record (Google Scholar, PubMed), and brings expertise in FDA regulatory strategy (510(k), De Novo), CLIA/CAP compliance, and diagnostic assay commercialization. He is open to collaborations, consulting opportunities, and research partnerships in biomarker development, AI/ML diagnostics, and precision medicine.
 
 🌐 [www.DrKoduru.com](https://www.DrKoduru.com)
 
