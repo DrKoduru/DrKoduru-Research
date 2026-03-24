@@ -190,6 +190,10 @@ Omelette Inc. is a scientific software and diagnostic data tools company special
 | **ScholarSite Pro v2** | Academic portfolio and analytics dashboard with executive, academic, and developer views |
 | **HTML to PDF WebApp** | Web-based document conversion tool for generating publication-ready PDFs from HTML templates |
 | **Quote&InvoicePro WebApp** | Professional quoting and invoicing platform for scientific consulting and CRO partnerships |
+| **STI-DETECT Reporting App** | STI diagnostic reporting application for clinical labs — automated result interpretation and compliant report generation |
+| **PubMedHub** | iOS & Android app for streamlined PubMed literature search, saved collections, and research discovery |
+| **JournalIF** | iOS & Android app for journal impact factor lookup, journal comparison, and publication target selection |
+| **20+ Scientific Mobile Apps** | Portfolio of iOS and Android apps for researchers — spanning literature tools, data utilities, and scientific calculators |
 | **AI/ML Services** | Custom diagnostic AI model development, data pipeline processing, ROC analysis, and validation |
 
 🌐 [www.omeletteinc.com](https://www.omeletteinc.com)
