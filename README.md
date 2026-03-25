@@ -1,10 +1,9 @@
-# DrKoduru-Research — Claude Code Plugin for Cancer Biology & Diagnostics
+# DrKoduru-Research — Claude Code Plugin for  Diagnostics and Research Related
 
 > **AI/ML brain for Senior Research Scientists** in cancer biomarker development,
 > bioinformatics, diagnostic platform engineering, and clinical research.
 
 **Author:** [Dr. Srinivas V Koduru, PhD, AI/ML](https://www.DrKoduru.com)
-**Website:** [www.DrKoduru.com](https://www.DrKoduru.com)
 
 ---
 
